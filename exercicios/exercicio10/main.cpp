@@ -42,5 +42,7 @@ int main(void){
 
     int tamanhoVetor = sizeof(vetor2) / sizeof(vetor2[0]);
     ordenaVetorDecrescente(vetor2, tamanhoVetor);
+    
+    
 
 }

@@ -13,6 +13,7 @@ struct arvore {
         cout << "Regando a planta";
     }
 };
+
 int main(){
     arvore primeiraArvore;
 
